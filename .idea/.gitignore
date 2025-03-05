@@ -1,3 +1,45 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# IntelliJ IDEA project files
+/.idea/
+*.iml
+
+# Build directories
+/out/
+/build/
+/target/
+
+# Logs
+*.log
+
+# Dependency directories
+/node_modules/
+/.mvn/
+
+# Environment files
+.env
+.env.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Package managers
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Java
+*.class
+*.jar
+*.war
+
+# Other IDE-specific files
+*.vscode/
+*.swp
+*.swo
